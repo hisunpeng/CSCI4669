@@ -1,0 +1,2 @@
+/Users/SunMac/Documents/workspace/CSCI4669/FiveChess1/app/build/intermediates/classes/debug
+/Users/SunMac/Documents/workspace/CSCI4669/FiveChess1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fc749d847c71e5b4e46a69e242080f00ab3f7496.jar
